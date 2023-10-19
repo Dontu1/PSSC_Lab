@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "zAnZzL4iaKYOyGUhRa//JJfCeb38UCVPsa6zFCSab3z8bTTHIaPdiXSDzpZDtGi+kMUBJZyBhK2JtW4QSDIqhg==",
+  "success": true,
+  "projectFilePath": "D:\\Anul4\\Semestrul1\\Proiectarea Sistemelor Softwer Complexe\\Lab\\Lab3\\Lab3\\Lab3\\Lab3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dontu\\.nuget\\packages\\csharp.choices\\2.1.1\\csharp.choices.2.1.1.nupkg.sha512",
+    "C:\\Users\\dontu\\.nuget\\packages\\csharp.choices.attributes\\2.1.1\\csharp.choices.attributes.2.1.1.nupkg.sha512",
+    "C:\\Users\\dontu\\.nuget\\packages\\csharp.choices.generators\\2.1.1\\csharp.choices.generators.2.1.1.nupkg.sha512",
+    "C:\\Users\\dontu\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.2\\microsoft.codeanalysis.analyzers.3.3.2.nupkg.sha512",
+    "C:\\Users\\dontu\\.nuget\\packages\\microsoft.codeanalysis.common\\4.0.1\\microsoft.codeanalysis.common.4.0.1.nupkg.sha512",
+    "C:\\Users\\dontu\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.0.1\\microsoft.codeanalysis.csharp.4.0.1.nupkg.sha512",
+    "C:\\Users\\dontu\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\dontu\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\dontu\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\dontu\\.nuget\\packages\\system.reflection.metadata\\5.0.0\\system.reflection.metadata.5.0.0.nupkg.sha512",
+    "C:\\Users\\dontu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\dontu\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\dontu\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
